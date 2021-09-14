@@ -1,8 +1,8 @@
 # SUNNY airdrop to Osmosis holders
 
-In October, the SUNNY airdrop claim to Osmosis holders will be available. To check how many SUNNY tokens you will be able to claim, see [airdrop-sorted-by-address-alphabetically.txt](./airdrop-sorted-by-address-alphabetically.txt) and search for your address.
+In October, the SUNNY airdrop claim to Osmosis holders will be available. To check how many SUNNY tokens you will be able to claim, see [airdrop-sorted-by-address-alphabetically.txt](./airdrop-sorted-by-address-alphabetically.txt), click `View raw`, and search for your address.
 
-## Relevant blog posts
+## Relevant blog post
 
 - [Sunny announces airdrop to Osmosis (OSMO) holders](https://medium.com/sunny-aggregator/sunny-announces-airdrop-to-osmosis-osmo-holders-6e787c4502ac)
 
